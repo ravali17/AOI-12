@@ -20,6 +20,7 @@ public class CreateFileAndDeleteFile {
 				else {
 					System.out.println("failed to delete the file");
 					System.out.println("file deletion failed");
+					System.out.println("file deletion failed");
 				
 		}
 		}
